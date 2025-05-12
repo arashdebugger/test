@@ -1,0 +1,109 @@
+{
+  "isSuccess": true,
+  "messages": [],
+  "data": {
+    "setting": {
+      "update": {
+        "versionCode": 1,
+        "isForceUpdate": false
+      },
+      "rateDialog": {
+        "indexes": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          67,
+          77,
+          88,
+          55
+        ]
+      },
+      "admob": {
+        "isActive": true,
+        "isGdprActive": true,
+        "appId": "",
+        "units": {
+          "firstUnit": "",
+          "unitConnect": "ca-app-pub-3940256099942544/8691691433",
+          "unitDisconnect": "",
+          "unitBeforeConnect": "",
+          "unitAfterDisconnect": "",
+          "admobTimer": 28000
+        }
+      },
+      "links": {
+        "shareLink": "\"",
+        "telegramLink": "\"",
+        "misc": [
+          "\""
+        ]
+      },
+      "timeouts": {
+        "apiRequests": 1000,
+        "apiRequestsRetry": 5
+      },
+      "splashText": "test"
+    },
+    "shouldDecryptConfig": true,
+    "configs": [
+      {
+        "config": "Rkcb/S/tgWNvV7DZeJPXLGfBR4ahvFLqMdej5wYdmZ5MvERqWCrsmm6/iBqUnkEVvHvmTy9P1yHiPi33woIFwAVpanYThlbN4whjo371R0ij7vpzi/MGNkQxL9KRef5a4dKcmNd9Ffq20+UpJnif8d3H7alaGcUn6Q8CF9O6Hjjb/I1u/H3Yu1EFtGICZjqo",
+        "countryName": "ARUBA",
+        "countryCode": "533",
+        "serverCode": "e197106b9b4e4a2e",
+        "isp": "default"
+      },
+      {
+        "config": "zffuAvZv2NLe+9axkje/pDy+b7U684bRCJy8LK8XUZf2/K07OxY/SCklbEjD3PtGjxs1oATQMEKcZ2zC698s3hOHpvIpb6PZzVLAE/JZG9JUsXPoIHQT/52VXNjPgVWpZBWrSTFNq4ux5gBnB41856KGv2jkOM+u++2BXfcPHns6DvG0XrPy/4iZ1kP6XAj4lo7q1jaBTpLgsRliWwJboA==",
+        "countryName": "AFGHANISTAN",
+        "countryCode": "4",
+        "serverCode": "f28fd7be14b07315",
+        "isp": "Default"
+      },
+      {
+        "config": "phVxwhP7FhUoJkQ8wyoBdHuJFv30FLNKrpPEDH+/mnEoDMfRIt9S/D2Cl0O6A6vB0e55girhuN5JBLC+SM2upHOypW0rrOtXk1HqeCZRl3pSPpJ3f0gVXVrzHbSrxXjwhmBWp3YBcde5tolB6fkCG9g/6sFItYIcqvye0IKFhM2vy1nGgk05XJjW6oG7seqn",
+        "countryName": "ALBANIA",
+        "countryCode": "8",
+        "serverCode": "d8175b4c08b60eb6",
+        "isp": "Default"
+      },
+      {
+        "config": "zffuAvZv2NLe+9axkje/pDy+b7U684bRCJy8LK8XUZf2/K07OxY/SCklbEjD3PtGjxs1oATQMEKcZ2zC698s3hOHpvIpb6PZzVLAE/JZG9JUsXPoIHQT/52VXNjPgVWpZBWrSTFNq4ux5gBnB41856KGv2jkOM+u++2BXfcPHns6DvG0XrPy/4iZ1kP6XAj4lo7q1jaBTpLgsRliWwJboA==",
+        "countryName": "AFGHANISTAN",
+        "countryCode": "4",
+        "serverCode": "f28fd7be14b07315",
+        "isp": "Default"
+      },
+      {
+        "config": "AxnkYdUAxZB5q7TGXTALpJeSfX+vKWu7CP2nh/B6wIpzceojw1PPJ+z3T0mPYqCqfpYcjmTdjtBDZDQON2Jqqy+be9t2u5C69IA1VMuc/d1Za/zUfncxyCgXtYnTp9NulcxU4Bq95fR6a0wAPQL0qEsbYE2MmjhgGh55EmbnYRlglty5RB1cXIaJtGIx6tbLfB//KGP3iKxxk814XM+ccGuHCLwtoi7BQYGdOoDhtWQ5BAUc+RXWkYJEQxcfkTBuB+cz+LRnIXDA2Qy7tjOcCu0RzoWYjULaiVtPtsPobYVtl1cha7lRMrJ7gBMKiJXI",
+        "countryName": "BELIZE",
+        "countryCode": "84",
+        "serverCode": "d83b3b248c0f7a8a",
+        "isp": "default"
+      },
+      {
+        "config": "5M5knd5lEAiAGThCGdVQXKXSNqRYhNJQDjfm85RUqbm10/hvR67a1ldOtt7hJxiOb+RT2BH7M+ewzVMhDhcZWBfjxR0HmpcwKikU0J3OKPPwJZQSjwAFcppLty3NdJcdX44eASmT0jn/VrjuD0Ko/S9upWgNxbFZS3hLoOq0R+jiVv51d7vYyfFahWbYD1itmhFTVlfvkoIku2DN+Qj7BQ==",
+        "countryName": "ARUBA",
+        "countryCode": "533",
+        "serverCode": "cb4ea4737803b192",
+        "isp": "default"
+      },
+      {
+        "config": "c5ZZ2UWioGbidraP2vtaxZpFEgbjt1WRiM7R0412EjbvD4SnXwmIU087Nkss5csR2TgFVEnn3ieSWpAjvA5lMFfKbTBR6AE+0fOuIuur1HGqA9DtH+Xo1OwMKYaUsTJThgaqwHK3N0qx3uP4C0s39l12+vRhu43o3yZBf+rFfIKcnizid8F2yHl6SNsc/s5J9CXv/D5WGbc4smKWT+HZq6JwRYN0+sOKaRxQO1zm6+HKN8qToZgI+2/XLGP7WyT/Khh6sk1+IEfU5ya+YTy5JrXpmv2NiHbdmMJYQOBDlzk=",
+        "countryName": "GERMANY",
+        "countryCode": "276",
+        "serverCode": "048ae09d83197b32",
+        "isp": "Default"
+      },
+      {
+        "config": "phVxwhP7FhUoJkQ8wyoBdHuJFv30FLNKrpPEDH+/mnEoDMfRIt9S/D2Cl0O6A6vB0e55girhuN5JBLC+SM2upHOypW0rrOtXk1HqeCZRl3pSPpJ3f0gVXVrzHbSrxXjwhmBWp3YBcde5tolB6fkCG9g/6sFItYIcqvye0IKFhM2vy1nGgk05XJjW6oG7seqn",
+        "countryName": "ALBANIA",
+        "countryCode": "8",
+        "serverCode": "d8175b4c08b60eb6",
+        "isp": "Default"
+      }
+    ]
+  }
+}
